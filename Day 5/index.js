@@ -163,3 +163,4 @@ console.log(hasEven);
 const nums6 = [5, 10, 15, -20];
 const allPositive = nums6.every((num) => num > 0);
 console.log(allPositive);
+
