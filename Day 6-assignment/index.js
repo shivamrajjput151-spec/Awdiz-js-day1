@@ -395,3 +395,5 @@ console.log(countries[0]);
 
 let scores = [100, 200, 300, 400];
 console.log(scores[2]);
+
+
